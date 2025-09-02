@@ -46,25 +46,25 @@
 
 [python-get_snapshot](https://github.com/sasudsha/python-code/tree/main/aws/get_snapshot)
 
-[keypair](https://github.com/sasudsha/python-code/tree/main/aws/keypair)
+[python-keypair](https://github.com/sasudsha/python-code/tree/main/aws/keypair)
 
-[lambda](https://github.com/sasudsha/python-code/tree/main/aws/lambda)
+[python-lambda](https://github.com/sasudsha/python-code/tree/main/aws/lambda)
 
-[loadbalancer](https://github.com/sasudsha/python-code/tree/main/aws/loadbalancer)
+[pthon-loadbalancer](https://github.com/sasudsha/python-code/tree/main/aws/loadbalancer)
 
-[os-version](https://github.com/sasudsha/python-code/tree/main/aws/os-version)
+[python-os-version](https://github.com/sasudsha/python-code/tree/main/aws/os-version)
 
-[patch](https://github.com/sasudsha/python-code/tree/main/aws/patch)
+[python-patch](https://github.com/sasudsha/python-code/tree/main/aws/patch)
 
-[rds-all](https://github.com/sasudsha/python-code/tree/main/aws/rds-all)
+[python-rds-all](https://github.com/sasudsha/python-code/tree/main/aws/rds-all)
 
-[rds](https://github.com/sasudsha/python-code/tree/main/aws/rds)
+[python-rds](https://github.com/sasudsha/python-code/tree/main/aws/rds)
 
-[s3](https://github.com/sasudsha/python-code/tree/main/aws/s3)
+[python-s3](https://github.com/sasudsha/python-code/tree/main/aws/s3)
 
-[security-group](https://github.com/sasudsha/python-code/tree/main/aws/security-group)
+[python-security-group](https://github.com/sasudsha/python-code/tree/main/aws/security-group)
 
-[update-tag](https://github.com/sasudsha/python-code/tree/main/aws/update-tag)
+[python-update-tag](https://github.com/sasudsha/python-code/tree/main/aws/update-tag)
 
 [ec2-instance-ansible-config](https://github.com/sasudsha/ec2-instance-ansible-config)
 
