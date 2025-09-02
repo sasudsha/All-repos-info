@@ -18,33 +18,33 @@
 
 [AWS](https://github.com/sasudsha/python-code/tree/main/aws)
 
-[asg](https://github.com/sasudsha/python-code/tree/main/aws/asg)
+[python-asg](https://github.com/sasudsha/python-code/tree/main/aws/asg)
 
-[aws-ssm-check-patch-version](https://github.com/sasudsha/python-code/tree/main/aws/aws-ssm-check-patch-version)
+[python-aws-ssm-check-patch-version](https://github.com/sasudsha/python-code/tree/main/aws/aws-ssm-check-patch-version)
 
-[backuplan](https://github.com/sasudsha/python-code/tree/main/aws/backuplan)
+[python-backuplan](https://github.com/sasudsha/python-code/tree/main/aws/backuplan)
 
-[delete_ami](https://github.com/sasudsha/python-code/tree/main/aws/delete_ami)
+[python-delete_ami](https://github.com/sasudsha/python-code/tree/main/aws/delete_ami)
 
-[delete_snapshot](https://github.com/sasudsha/python-code/tree/main/aws/delete_snapshot)
+[python-delete_snapshot](https://github.com/sasudsha/python-code/tree/main/aws/delete_snapshot)
 
-[describe_instance](https://github.com/sasudsha/python-code/tree/main/aws/describe_instance)
+[python-describe_instance](https://github.com/sasudsha/python-code/tree/main/aws/describe_instance)
 
-[dhcp](https://github.com/sasudsha/python-code/tree/main/aws/dhcp)
+[python-dhcp](https://github.com/sasudsha/python-code/tree/main/aws/dhcp)
 
-[dynamodb](https://github.com/sasudsha/python-code/tree/main/aws/dynamodb)
+[python-dynamodb](https://github.com/sasudsha/python-code/tree/main/aws/dynamodb)
 
-[ecr](https://github.com/sasudsha/python-code/tree/main/aws/ecr)
+[python-ecr](https://github.com/sasudsha/python-code/tree/main/aws/ecr)
 
-[get_ami](https://github.com/sasudsha/python-code/tree/main/aws/get_ami)
+[python-get_ami](https://github.com/sasudsha/python-code/tree/main/aws/get_ami)
 
-[get_ebs_volume](https://github.com/sasudsha/python-code/tree/main/aws/get_ebs_volume)
+[python-get_ebs_volume](https://github.com/sasudsha/python-code/tree/main/aws/get_ebs_volume)
 
-[get_iam](https://github.com/sasudsha/python-code/tree/main/aws/get_iam)
+[python-get_iam](https://github.com/sasudsha/python-code/tree/main/aws/get_iam)
 
-[get_patching](https://github.com/sasudsha/python-code/tree/main/aws/get_patching)
+[python-get_patching](https://github.com/sasudsha/python-code/tree/main/aws/get_patching)
 
-[get_snapshot](https://github.com/sasudsha/python-code/tree/main/aws/get_snapshot)
+[python-get_snapshot](https://github.com/sasudsha/python-code/tree/main/aws/get_snapshot)
 
 [keypair](https://github.com/sasudsha/python-code/tree/main/aws/keypair)
 
@@ -65,5 +65,42 @@
 [security-group](https://github.com/sasudsha/python-code/tree/main/aws/security-group)
 
 [update-tag](https://github.com/sasudsha/python-code/tree/main/aws/update-tag)
+
+[ec2-instance-ansible-config](https://github.com/sasudsha/ec2-instance-ansible-config)
+
+[vpc-creation](https://github.com/sasudsha/vpc-creation)
+
+[code-build](https://github.com/sasudsha/code-build)
+
+[powershell-script](https://github.com/sasudsha/powershell-script)
+
+[crop-app](https://github.com/sasudsha/crop-app)
+
+[image-creation-app](https://github.com/sasudsha/image-creation-app)
+
+[docker-file-creation-database](https://github.com/sasudsha/docker-file-creation-database)
+
+[transit-gateway](https://github.com/sasudsha/transit-gateway)
+
+[obsidian](https://github.com/sasudsha/obsidian)
+
+[Docker-web-app-all](https://github.com/sasudsha/Docker-web-app-all)
+
+[upload-picture-python](https://github.com/sasudsha/upload-picture-python)
+
+[upload-file-creation](https://github.com/sasudsha/upload-file-creation)
+
+[efs](https://github.com/sasudsha/efs)
+
+[terraform-rds](https://github.com/sasudsha/rds)
+
+[domain-join-ansible](https://github.com/sasudsha/domain-join-ansible)
+
+[docker-app](https://github.com/sasudsha/docker-app)
+
+[terraform-loadbalancer](https://github.com/sasudsha/loadbalancer)
+
+[backend-tf-lab](https://github.com/sasudsha/backend-tf-lab)
+
 
 
