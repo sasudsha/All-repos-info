@@ -148,16 +148,16 @@
 
 [python-azurerecoveryvault](https://github.com/sasudsha/python-code/tree/main/azure/azurerecoveryvault)
 
-[python-delete_volume_unattached](https://github.com/sasudsha/python-code/tree/main/azure/delete_volume_unattached)
+[python-azure-delete_volume_unattached](https://github.com/sasudsha/python-code/tree/main/azure/delete_volume_unattached)
 
-[python-resourcegroup](https://github.com/sasudsha/python-code/tree/main/azure/resourcegroup)
+[python-azure-resourcegroup](https://github.com/sasudsha/python-code/tree/main/azure/resourcegroup)
 
-[python-tag_edit](https://github.com/sasudsha/python-code/tree/main/azure/tag_edit)
+[python-azure-tag_edit](https://github.com/sasudsha/python-code/tree/main/azure/tag_edit)
 
-[python-unattched_volume](https://github.com/sasudsha/python-code/tree/main/azure/unattched_volume)
+[python-azure-unattched_volume](https://github.com/sasudsha/python-code/tree/main/azure/unattched_volume)
 
-[python-update-tag](https://github.com/sasudsha/python-code/tree/main/azure/update-tag)
+[python-azure-update-tag](https://github.com/sasudsha/python-code/tree/main/azure/update-tag)
 
-[python-vm](https://github.com/sasudsha/python-code/tree/main/azure/vm)
+[python-azure-vm](https://github.com/sasudsha/python-code/tree/main/azure/vm)
 
 
